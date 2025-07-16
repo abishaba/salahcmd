@@ -1,0 +1,6 @@
+salah cmd{
+
+color:white;
+font-size:21px;
+
+}
